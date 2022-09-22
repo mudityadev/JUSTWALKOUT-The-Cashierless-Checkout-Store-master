@@ -1,4 +1,5 @@
 <!-- PROJECT -->
+<<<<<<< HEAD
   <h3 align="center">
 JUSTWALKOUT - CASHIERLESS CHECKOUT STORE
 </h3>
@@ -7,6 +8,15 @@ JUSTWALKOUT - CASHIERLESS CHECKOUT STORE
   (Imagine Cup, Microsoft 2021)
     <br />
     <a href="https://mudityadev.github.io/mudityadev/"><strong>Muditya Raghav Portflio »</strong></a>
+=======
+  <h3 align="center">Lane Line Detection Project 
+</h3>
+
+  <p align="center">
+   Build for autonomous cars and trucks.
+    <br />
+    <a href="https://rmuditya.github.io/MudityaRaghav/"><strong>Muditya Raghav Portflio »</strong></a>
+>>>>>>> 37ac4f6058113b7f2779cef94575ed24f00beb38
     <br />
     <br />
     <a href="https://github.com/rmuditya/Lane-Line-Detection-for-Autonomous-Car-Truck-on-Images-Video/blob/master/test_videos_output/solidWhiteRight.mp4">View Demo</a>
@@ -45,7 +55,11 @@ JUSTWALKOUT - CASHIERLESS CHECKOUT STORE
 
 <!-- ABOUT THE PROJECT -->
 ## Overview - About The Project
+<<<<<<< HEAD
 ![alt text](https://github.com/mudityadev/JUSTWALKOUT-The-Cashierless-Checkout-Store-master/blob/master/Screenshots/userDashboard.png)
+=======
+![alt text](https://github.com/rmuditya/Lane-Line-Detection-for-Autonomous-Car-Truck-on-Images-Video/blob/master/Screenshots/laneLines_thirdPass.jpg)
+>>>>>>> 37ac4f6058113b7f2779cef94575ed24f00beb38
 <br />
 Humans have eyes to understand the sounding but machines don't. Autonomous systems have Cameras to see the world and by using the Computer Vision algorithm, they can understand them, take decisions.
 I designed a Lane Line detection program that helps autonomous cars and trucks to find the line in any environment or weather.
